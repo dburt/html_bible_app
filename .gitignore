@@ -1,0 +1,3 @@
+/books/*.html
+!/books/index.html
+/tmp

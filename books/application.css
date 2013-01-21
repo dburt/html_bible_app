@@ -1,0 +1,5 @@
+.book-page sup, .book-page i, .book-page a[name] { color: #999 }
+.book-page p { margin: 0 }
+.book-page nav.chapters { margin: 0 1em }
+.book-page a[name] { font-size: 2em }
+.book-page .note { color: #999; font-size: 1.2em; vertical-align: sub; }
